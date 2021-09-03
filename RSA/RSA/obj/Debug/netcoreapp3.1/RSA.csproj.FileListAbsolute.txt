@@ -1,0 +1,15 @@
+F:\Program_works\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.exe
+F:\Program_works\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.deps.json
+F:\Program_works\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.runtimeconfig.json
+F:\Program_works\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.runtimeconfig.dev.json
+F:\Program_works\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.dll
+F:\Program_works\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.pdb
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csprojAssemblyReference.cache
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.Form1.resources
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.GenerateResource.cache
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.AssemblyInfoInputs.cache
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.AssemblyInfo.cs
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.CoreCompileInputs.cache
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.dll
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.pdb
+F:\Program_works\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.genruntimeconfig.cache
